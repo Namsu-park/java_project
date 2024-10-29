@@ -41,4 +41,5 @@
 
 **- UML 클래스 다이어그램**
 
-![UML](https://github.com/user-attachments/assets/3f128ad6-bd99-432c-9a21-22192eb9ddff)
+![UML](https://github.com/user-attachments/assets/a23e9e33-6946-43e0-a0e4-14c3ce3c20af)
+
