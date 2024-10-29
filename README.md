@@ -23,11 +23,12 @@
  ![게임 실행 및 닉네임 입력 화면](https://github.com/user-attachments/assets/61d6bfb3-5c44-40da-9802-93b959d74792)
 
  
- **2. 인기도서**  
- 연령대별 인기도서
+ **2. 메인 화면 및 일시정지**  
+
+ Play 버튼 실행 & 일시정지 화면
   
- <img src="https://github.com/user-attachments/assets/b84be0df-3661-4b03-a26e-bdb2c860fb63" wwidth="25%" height="25%"/>
- <br></br>
+ ![Play 및 일시정지 화면](https://github.com/user-attachments/assets/6e70d8ff-21e5-4ed9-b037-bc2e0eccb0bd)
+ 
 
  **3. 북카트**   
  대출신청 및 삭제
