@@ -17,10 +17,9 @@
 
 
  **1. 게임 실행 화면**  
- ![게임 실행 및 닉네임 입력 화면]   
 
- <(https://github.com/user-attachments/assets/4779fbb2-87b6-4ffe-a549-793b979a3903)>
- <br></br>
+ <![게임 실행 및 닉네임 입력 화면](https://github.com/user-attachments/assets/61d6bfb3-5c44-40da-9802-93b959d74792)
+>
  
  **2. 인기도서**  
  연령대별 인기도서
