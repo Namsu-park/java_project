@@ -30,26 +30,15 @@
  ![Play 및 일시정지 화면](https://github.com/user-attachments/assets/6e70d8ff-21e5-4ed9-b037-bc2e0eccb0bd)
  
 
- **3. 북카트**   
- 대출신청 및 삭제
- 
- <img src="https://github.com/user-attachments/assets/e97e74ea-c00f-46f0-99d6-52c8fbb91061" width="38%" height="60%"/>
- <img src="https://github.com/user-attachments/assets/bff27a89-5287-4114-89d7-b64cdfe78275" width="60%" height="80%"/>
- <br></br>
+ **3. 득점자 점수판**  
 
- **4. 리뷰 작성**  
-리뷰 작성 및 수정, 삭제
+게임 종료 시 플레이어 랭크 구간
 
-<img src="https://github.com/user-attachments/assets/32bc2300-dece-482f-9c55-d514c91b8462" width="50%" height="50%"/>
-<br></br>
+![득점자 점수판 구현](https://github.com/user-attachments/assets/92b75822-7494-4810-a4ba-44ca5eb658ed)
+
 
 ### 📍 설계
 
-**- 플로우 차트**
+**- UML 클래스 다이어그램**
 
-<img src="https://github.com/user-attachments/assets/9f352a2f-4c13-4e51-b0bb-2a693edcf173" width="70%" height="70%"/> 
- <br></br>
-
-**- 요구사항 및 화면설계**
-
-> [Notion 바로가기] "https://www.notion.so/11220f38d4c380c8a176febeefbe6ef2"
+![UML](https://github.com/user-attachments/assets/3f128ad6-bd99-432c-9a21-22192eb9ddff)
