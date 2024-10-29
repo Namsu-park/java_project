@@ -17,7 +17,8 @@
 
 
  **1. 게임 실행 화면**  
-
+게임 실행 및 닉네임 입력 화면
+ 
  <![게임 실행 및 닉네임 입력 화면](https://github.com/user-attachments/assets/61d6bfb3-5c44-40da-9802-93b959d74792)
 >
  
