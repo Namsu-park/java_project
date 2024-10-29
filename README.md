@@ -5,14 +5,12 @@
 
 <details>
 <summary>기능 요약</summary>
-<div markdown="1">       
  
 게임 실행 페이지 구현 (Play 버튼 & 득점자 점수판 & 게임 방법 설명)
 Play 버튼 클릭 시 게임 진행
 테트리스 블록, 회전, 타이밍, 그래픽 등 구현
 사용자가 원하는 닉네임 설정 및 랭킹 등록
 
-</div>
 </details>
 
 
