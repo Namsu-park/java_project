@@ -25,7 +25,8 @@
  **2. 메인 화면 및 일시정지**  
 
  Play 버튼 실행 & 일시정지 화면
- ![Play 및 일시정지 화면](https://github.com/user-attachments/assets/6e70d8ff-21e5-4ed9-b037-bc2e0eccb0bd)
+ ![Play 및 일시정지 화면](https://github.com/user-attachments/assets/de2a9c76-22fd-4ef0-92ba-53e1acb8903f)
+
  
 
  **3. 득점자 점수판**  
