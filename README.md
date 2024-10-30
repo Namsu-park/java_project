@@ -29,7 +29,7 @@
 
 
  
- **2. 메인 화면 및 일시정지**  
+ **2. Play 화면 및 일시정지**  
 
 - Play 버튼 실행 & 일시정지 화면
  ![플레이(일시정지)화면](https://github.com/user-attachments/assets/8c988d25-a540-471e-a1c7-ca859efaf1c9)
