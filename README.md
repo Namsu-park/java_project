@@ -37,5 +37,6 @@
 
 **- UML 클래스 다이어그램**
 
-![UML](https://github.com/user-attachments/assets/a23e9e33-6946-43e0-a0e4-14c3ce3c20af)
+![Tetris UML](https://github.com/user-attachments/assets/039c8d2a-4a54-4a3b-b88b-3915080049c9)
+
 
