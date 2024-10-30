@@ -13,6 +13,14 @@
 </div>
 
 
+### 📍 설계
+
+**- UML 클래스 다이어그램**
+
+![Tetris UML](https://github.com/user-attachments/assets/039c8d2a-4a54-4a3b-b88b-3915080049c9)
+
+
+
  **1. 게임 실행 화면**  
  
 게임 실행 및 닉네임 입력 화면
@@ -30,13 +38,3 @@
 
 게임 종료 시 플레이어 랭크 구간
 ![득점자 점수판 구현](https://github.com/user-attachments/assets/92b75822-7494-4810-a4ba-44ca5eb658ed)
-
-
-
-### 📍 설계
-
-**- UML 클래스 다이어그램**
-
-![Tetris UML](https://github.com/user-attachments/assets/039c8d2a-4a54-4a3b-b88b-3915080049c9)
-
-
