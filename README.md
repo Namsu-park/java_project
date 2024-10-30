@@ -17,8 +17,6 @@
 
 **- UML 클래스 다이어그램**
 
-![Tetris UML](https://github.com/user-attachments/assets/039c8d2a-4a54-4a3b-b88b-3915080049c9)
-
 
 
  **1. 게임 실행 화면**  
