@@ -23,17 +23,20 @@
  **1. 게임 실행 화면**  
  
 - 게임 실행 및 닉네임 입력 화면
- ![게임 실행 및 닉네임 입력 화면](https://github.com/user-attachments/assets/61d6bfb3-5c44-40da-9802-93b959d74792)
+ ![게임화면](https://github.com/user-attachments/assets/b1b657b2-ba37-4bbb-b740-46d43d025f9b)
+
 
  
  **2. 메인 화면 및 일시정지**  
 
 - Play 버튼 실행 & 일시정지 화면
- ![Play 및 일시정지 화면](https://github.com/user-attachments/assets/de2a9c76-22fd-4ef0-92ba-53e1acb8903f)
+ ![플레이(일시정지)화면](https://github.com/user-attachments/assets/8c988d25-a540-471e-a1c7-ca859efaf1c9)
+
 
  
 
  **3. 득점자 점수판**  
 
 - 게임 종료 시 플레이어 랭크 구간
-![득점자 점수판 구현](https://github.com/user-attachments/assets/92b75822-7494-4810-a4ba-44ca5eb658ed)
+![점수판](https://github.com/user-attachments/assets/9218e9d2-4c8d-449a-ad6f-21fce0e09e97)
+
