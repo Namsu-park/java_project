@@ -39,6 +39,6 @@
 
  **3. 득점자 점수판**  
 
-- 게임 종료 시 플레이어 랭크 등록
+- 게임 종료 시, 플레이어 랭크 자동 등록
 ![점수판](https://github.com/user-attachments/assets/9218e9d2-4c8d-449a-ad6f-21fce0e09e97)
 
