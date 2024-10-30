@@ -16,7 +16,7 @@
 ### 📍 설계
 
 **UML 클래스 다이어그램**
-
+![Tetris(UML)](https://github.com/user-attachments/assets/c9226d93-a605-4c62-93b5-51279a3c02b4)
 
 
 
