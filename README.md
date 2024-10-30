@@ -21,18 +21,18 @@
 
  **1. 게임 실행 화면**  
  
-게임 실행 및 닉네임 입력 화면
+- 게임 실행 및 닉네임 입력 화면
  ![게임 실행 및 닉네임 입력 화면](https://github.com/user-attachments/assets/61d6bfb3-5c44-40da-9802-93b959d74792)
 
  
  **2. 메인 화면 및 일시정지**  
 
- Play 버튼 실행 & 일시정지 화면
+- Play 버튼 실행 & 일시정지 화면
  ![Play 및 일시정지 화면](https://github.com/user-attachments/assets/de2a9c76-22fd-4ef0-92ba-53e1acb8903f)
 
  
 
  **3. 득점자 점수판**  
 
-게임 종료 시 플레이어 랭크 구간
+- 게임 종료 시 플레이어 랭크 구간
 ![득점자 점수판 구현](https://github.com/user-attachments/assets/92b75822-7494-4810-a4ba-44ca5eb658ed)
