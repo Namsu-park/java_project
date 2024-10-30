@@ -16,7 +16,6 @@
 ### 📍 설계
 
 **- UML 클래스 다이어그램**
-![테트리스(UML)](https://github.com/user-attachments/assets/df76fc85-3850-4ae8-9989-cc93f92eb865)
 
 
 
